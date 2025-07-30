@@ -1,2 +1,1 @@
-# web.browser.java
-java web browser console
+builds a .wasm file format
