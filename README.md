@@ -1,1 +1,1 @@
-java digital clock gui
+java digital clock
